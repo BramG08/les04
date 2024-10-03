@@ -5,4 +5,4 @@
 
 **This text is bold**
 
-__Italic Text__
+__Italic Text__ so do it
